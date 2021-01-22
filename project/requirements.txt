@@ -6,3 +6,5 @@ Flask-Bootstrap
 Flask-Login                      
 Flask-SQLAlchemy                   
 Flask-WTF         
+werkzeug
+wtforms.validators
